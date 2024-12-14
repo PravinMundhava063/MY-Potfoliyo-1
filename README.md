@@ -55,8 +55,7 @@
 
 <p><font size="4"> :- Sex		: Male</font></p>
 
-
-        <p><font size="4"> :- Address		:  L.I.G Quaters near Bhisukhgruh ODHAV,Ahemdabad
+<p><font size="4"> :- Address		:  L.I.G Quaters near Bhisukhgruh ODHAV,Ahemdabad
             						</font></p>
 	
 
